@@ -1,9 +1,9 @@
-import React from 'react';
-import Properties from './components/Properties';
-import Services from './components/Services';
-import Testimonials from './components/Testimonials';
-import AboutUs from './components/AboutUs';
-import ContactUs from './components/ContactUs';
+import React from "react";
+import Properties from "./components/Properties";
+import Services from "./components/Services";
+import Testimonials from "./components/Testimonials";
+import AboutUs from "./components/Aboutus";
+import ContactUs from "./components/Contactus";
 
 function App() {
   return (
